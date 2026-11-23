@@ -1,4 +1,4 @@
-# 🏕️ CDRent – Website Pengelolaan Penyewaan Peralatan dan Perlengkapan Camping Pada CDRent
+# 🏕️ Website Pengelolaan Penyewaan Peralatan dan Perlengkapan Camping Pada CDRent
 
 <p align="center">
   <strong>Website Pengelolaan Penyewaan Peralatan Camping</strong>
