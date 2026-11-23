@@ -1,11 +1,79 @@
-# CDRent_AlatCamping
-WEBSITE PENGELOLAAN PENYEWAAN PERALATAN DAN PERLENGKAPAN CAMPING PADA CDRENT
-> *Sewa Alat Camping Lebih Mudah, Stok Terpantau, Transaksi Tercatat.*
+# 🏕️ CDRent – Website Pengelolaan Penyewaan Peralatan dan Perlengkapan Camping Pada CDRent
 
-## 1. Informasi Aplikasi
+<p align="center">
+  <strong>Website Pengelolaan Penyewaan Peralatan Camping</strong>
+  <br/>
+  Menghadirkan pengelolaan penyewaan yang lebih efektif, terstruktur, dan terkomputerisasi.
+</p>
 
-**CDRent** adalah aplikasi berbasis web yang dirancang untuk membantu pengelola usaha penyewaan alat camping dalam mengelola data dan proses penyewaan secara lebih terstruktur.
+---
 
-Aplikasi ini menyediakan fitur katalog peralatan, pengelolaan data peralatan dan pelanggan, pencatatan transaksi penyewaan, pengembalian, perhitungan denda otomatis, pemantauan ketersediaan peralatan, riwayat transaksi, serta laporan penyewaan dan pendapatan.
+## 📌 Tentang Proyek
 
-Melalui website ini, pelanggan dapat melihat katalog dan melakukan reservasi secara mandiri tanpa harus datang langsung ke lokasi usaha. Sistem juga menghitung total biaya sewa dan denda keterlambatan atau kerusakan secara otomatis, sehingga proses pencatatan manual dapat digantikan dengan sistem yang lebih rapi dan akurat.
+**CDRent** merupakan sistem informasi yang dikembangkan untuk mendukung pengelolaan operasional penyewaan peralatan dan perlengkapan camping. Sistem ini mengintegrasikan pengelolaan inventaris, data pelanggan, transaksi penyewaan, pengembalian, hingga pelaporan dalam satu sistem yang terstruktur.
+
+Melalui digitalisasi proses bisnis, CDRent bertujuan meningkatkan efisiensi operasional, menjaga akurasi data, serta mempermudah pemantauan aktivitas penyewaan.
+
+## 🎯 Tujuan Pengembangan
+
+- Mengoptimalkan pengelolaan inventaris dan data pelanggan.
+- Meningkatkan efisiensi transaksi penyewaan dan pengembalian.
+- Memantau ketersediaan serta kondisi peralatan.
+- Mendukung perhitungan biaya sewa dan denda secara akurat.
+- Menyediakan riwayat transaksi dan laporan sebagai bahan evaluasi usaha.
+
+## ✨ Fitur Utama
+
+| Fitur | Deskripsi |
+|---|---|
+| **Autentikasi Pengguna** | Login dan pengelolaan hak akses pengguna. |
+| **Manajemen Peralatan** | Pengelolaan data, kategori, harga, dan stok peralatan. |
+| **Manajemen Pelanggan** | Pengelolaan informasi dan data pelanggan. |
+| **Transaksi Penyewaan** | Pencatatan transaksi dan perhitungan biaya sewa. |
+| **Pengembalian** | Pencatatan pengembalian dan kondisi peralatan. |
+| **Pengelolaan Denda** | Perhitungan denda keterlambatan dan kerusakan. |
+| **Monitoring Inventaris** | Pemantauan status dan ketersediaan peralatan. |
+| **Riwayat Transaksi** | Penyimpanan dan penelusuran data penyewaan. |
+| **Laporan** | Rekapitulasi transaksi dan pendapatan. |
+
+## 👥 Hak Akses Pengguna
+
+| Pengguna | Deskripsi |
+|---|---|
+| **Admin / Kasir** | Mengelola inventaris, pelanggan, transaksi, pengembalian, dan laporan. |
+| **Owner** | Memantau ketersediaan peralatan, aktivitas transaksi, dan laporan usaha. |
+| **Pelanggan** | Melakukan registrasi, melihat katalog, melakukan reservasi, dan memantau riwayat penyewaan. |
+
+## 🛠️ Teknologi yang Digunakan
+
+| Komponen | Teknologi |
+|---|---|
+| Bahasa Pemrograman | Java |
+| IDE | NetBeans |
+| Basis Data | MySQL |
+| Koneksi Basis Data | JDBC |
+| Pengolahan Laporan | JasperReports |
+
+## 📖 Ruang Lingkup Pengembangan
+
+CDRent berfokus pada digitalisasi proses pengelolaan penyewaan peralatan camping, mulai dari administrasi inventaris hingga penyusunan laporan. Pengembangan sistem diarahkan untuk mendukung kebutuhan operasional dan administrasi usaha penyewaan.
+
+## 📂 Informasi Proyek
+
+| Keterangan | Detail |
+|---|---|
+| Nama Aplikasi | CDRent |
+| Repository | CDRent_AlatCamping |
+| Kategori | Sistem Informasi Penyewaan |
+| Tahun Pengembangan | 2026 |
+| Status | Proyek Pengembangan Akademik |
+
+---
+
+<p align="center">
+  <strong>CDRent</strong>
+  <br/>
+  <em>Simplifying Rental Management, Supporting Better Experiences.</em>
+  <br/><br/>
+  Developed collaboratively as an academic software development project.
+</p>
