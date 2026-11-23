@@ -54,7 +54,7 @@ CDRent berfokus pada digitalisasi proses pengelolaan penyewaan peralatan camping
 |---|---|
 | Nama Aplikasi | CDRent |
 | Repository | CDRent_AlatCamping |
-| Kategori | Sistem Informasi Penyewaan |
+| Kategori | Website Penyewaan |
 | Tahun Pengembangan | 2026 |
 | Status | Proyek Pengembangan Akademik |
 
