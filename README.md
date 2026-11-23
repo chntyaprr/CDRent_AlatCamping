@@ -10,7 +10,7 @@
 
 ## 📌 Tentang Proyek
 
-**CDRent** merupakan sistem informasi yang dikembangkan untuk mendukung pengelolaan operasional penyewaan peralatan dan perlengkapan camping. Sistem ini mengintegrasikan pengelolaan inventaris, data pelanggan, transaksi penyewaan, pengembalian, hingga pelaporan dalam satu sistem yang terstruktur.
+**CDRent** merupakan website yang dikembangkan untuk mendukung pengelolaan operasional penyewaan peralatan dan perlengkapan camping. Sistem ini mengintegrasikan pengelolaan inventaris, data pelanggan, transaksi penyewaan, pengembalian, hingga pelaporan dalam satu sistem yang terstruktur.
 
 Melalui digitalisasi proses bisnis, CDRent bertujuan meningkatkan efisiensi operasional, menjaga akurasi data, serta mempermudah pemantauan aktivitas penyewaan.
 
@@ -43,16 +43,6 @@ Melalui digitalisasi proses bisnis, CDRent bertujuan meningkatkan efisiensi oper
 | **Admin / Kasir** | Mengelola inventaris, pelanggan, transaksi, pengembalian, dan laporan. |
 | **Owner** | Memantau ketersediaan peralatan, aktivitas transaksi, dan laporan usaha. |
 | **Pelanggan** | Melakukan registrasi, melihat katalog, melakukan reservasi, dan memantau riwayat penyewaan. |
-
-## 🛠️ Teknologi yang Digunakan
-
-| Komponen | Teknologi |
-|---|---|
-| Bahasa Pemrograman | Java |
-| IDE | NetBeans |
-| Basis Data | MySQL |
-| Koneksi Basis Data | JDBC |
-| Pengolahan Laporan | JasperReports |
 
 ## 📖 Ruang Lingkup Pengembangan
 
